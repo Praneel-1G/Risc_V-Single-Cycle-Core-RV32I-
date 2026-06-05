@@ -1,0 +1,9 @@
+sv work src/ALU.sv
+sv work src/Control_unit.sv
+sv work src/Data_mem.sv
+sv work src/Extend.sv
+sv work src/Instr_mem.sv
+sv work src/Program_Counter.sv
+sv work src/Reg_file.sv
+sv work src/RISCV_SINGLE_CORE.sv
+sv work tb/RISCV_SINGLE_CORE_tb.sv

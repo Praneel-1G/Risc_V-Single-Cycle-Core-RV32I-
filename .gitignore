@@ -1,0 +1,12 @@
+# Ignore Vivado generated files
+*.jou
+*.log
+*.pb
+*.wdb
+*.dcp
+*.dir/
+build/
+.Xil/
+
+# Keep your reports, ignore the heavy binaries
+!build/*.txt
